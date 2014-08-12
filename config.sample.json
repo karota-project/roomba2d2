@@ -1,0 +1,22 @@
+{
+  "docomo": {
+    "apikey": "your api key"
+  },
+  "facebook": {},
+  "julius": {
+    "port": "localhost:10500"
+  },
+  "openjtalk": {},
+  "roomba": {
+    "port": "serial port name"
+  },
+  "roomba2d2": {
+
+  },
+  "twitter": {
+    "consumerkey": "your consumer key",
+    "consumersecret": "your consumer secret",
+    "accesstoken": "your access token",
+    "accesstokensecret": "your access token secret"
+  }
+}
